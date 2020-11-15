@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 😉 Status
 
 - 🌱 I’m currently learning ...
