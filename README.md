@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+## 😉 Status
+
+- 🌱 I’m currently learning ...
+
+## 🌐 找到我
+
+- 个人博客：https://blog.xiaoandx.club
+- 邮   箱：xiaoandx@gmail.com
+
+## 💚 Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoandx&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **xiaoandx/xiaoandx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
