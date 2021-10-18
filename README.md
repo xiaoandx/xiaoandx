@@ -5,7 +5,8 @@
 ## 🌐 找到我
 
 - 个人博客：https://blog.xiaoandx.club
-- 邮   箱：xiaoandx@gmail.com
+- 邮　　箱：xiaoandx@gmail.com
+- 仓库镜像：https://gitee.com/xiaoandx
 
 ## 💚 Stats
 
